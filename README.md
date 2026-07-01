@@ -130,7 +130,7 @@ C:\laragon\www\projeto-SEMIT
 
 ## 3. Iniciar o Laragon
 
-Abra o Laragon e clique em **Start All** para iniciar:
+Abra o Laragon(v8.6.1) e clique em **Start All** para iniciar:
 
 - Apache 2.4.66
 - MySQL 8.4.3
