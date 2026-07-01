@@ -91,6 +91,7 @@ Durante o desenvolvimento foram implementadas algumas boas práticas visando mai
 - Impedimento de cadastro de pizzas duplicadas.
 - Impedimento de cadastro de ingredientes duplicados.
 - Impedimento de exclusão de ingredientes que estejam sendo utilizados por alguma pizza.
+- Impedimento de cadastro de preços inválidos.
 
 ---
 
